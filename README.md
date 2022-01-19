@@ -1,2 +1,3 @@
 # BISTU
-BISTU Logo animation.
+BISTU Logo animation.  
+校徽动画 Own works.
